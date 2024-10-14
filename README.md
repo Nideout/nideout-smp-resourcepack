@@ -1,0 +1,1 @@
+# nideout-smp-resourcepack
